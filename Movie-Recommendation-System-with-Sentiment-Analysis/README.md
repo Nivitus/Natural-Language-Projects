@@ -97,8 +97,7 @@ To run my app on your local machine, do the following steps.
    ```
 
 ## About Dataset
-For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). In this dataset there are three folders like train , test and validation folder . In this dataset features like Departure time, Arrival Time, Source, Destination, Stopage and Airline Service Names.
-
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data). Aprat from that got another data file using web scrapping from IMDB using my Account API key.
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
